@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/od341/CLionProject/EDS/main.c
+stribog/stribog_alg.h
+C:/Users/od341/CLionProject/EDS/stribog/stribog_alg.h
+
+C:/Users/od341/CLionProject/EDS/stribog/stribog_alg.c
+stribog_alg.h
+C:/Users/od341/CLionProject/EDS/stribog/stribog_alg.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+math.h
+-
+stribog_data.h
+C:/Users/od341/CLionProject/EDS/stribog/stribog_data.h
+
+C:/Users/od341/CLionProject/EDS/stribog/stribog_alg.h
+structs.h
+C:/Users/od341/CLionProject/EDS/stribog/structs.h
+
+C:/Users/od341/CLionProject/EDS/stribog/stribog_data.h
+
+C:/Users/od341/CLionProject/EDS/stribog/structs.h
+stdint.h
+-
+
